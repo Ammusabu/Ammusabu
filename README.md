@@ -1,8 +1,8 @@
-## # Hey!, Nice to see you.👋
+##  Hey!, Nice to see you.👋
 
 Welcome to my page!
-I'm Ammusabu 
-🤖 Machine Learning Engineer | 📊 Data Scientist  
+![EventBusiness Proposal Professional Docs Banner in Dark Brown White Photocentric Style](https://github.com/user-attachments/assets/40d7001e-8e7a-4d27-9d8d-e9931d91ceba)
+
 *Architecting intelligent systems at the NLP-Computer Vision crossroads*
 
 **🧠 Core Expertise**:  
