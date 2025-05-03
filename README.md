@@ -21,9 +21,9 @@ Welcome to my page!
 Maintainability beats momentary accuracy"
 
 **📬 Let's Collaborate**:  
-[![LinkedIn](https://img.shields.io/badge/-Connect-%230077B5?logo=linkedin)]([Your-LinkedIn])  
-[![Email](https://img.shields.io/badge/-Discuss-red?logo=gmail)](mailto:[your@email.com])  
-[![Colab](https://img.shields.io/badge/-Prototype-F9AB00?logo=googlecolab)]([Your-Colab-Link])
+[![LinkedIn](https://img.shields.io/badge/-Connect-%230077B5?logo=linkedin)]([[Your-LinkedIn]](https://www.linkedin.com/in/ammu-sabu-37997b280/))  
+[![Email](https://img.shields.io/badge/-Discuss-red?logo=gmail)](mailto:[ammuttya20@gmail.com])  
+
 
 **🔍 Currently Exploring**:  
 ▫️ Efficient Transformer Architectures  
