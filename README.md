@@ -19,28 +19,18 @@ Welcome to my page!
 
 **Machine Learning & Deep Learning**
 
-* TensorFlow
-* Keras
-* PyTorch
-* Scikit-learn
+`TensorFlow` `Keras` `PyTorch` `Scikit-learn`
+
 
 **Libraries**
 
-* NumPy
-* Pandas
-* Matplotlib
-* OpenCV
-* NLTK
+`NumPy` `Pandas` `Matplotlib` `OpenCV` `NLTK`
+
 
 **Tools & Platforms**
 
-* Git
-* GitHub
-* Linux
-* Jupyter Notebook
-* Google Colab
-* Kaggle
-* HuggingFace
+`Git` `GitHub` `Linux` `Jupyter Notebook` `Google Colab` `Kaggle` `HuggingFace`
+
 
 
 **🌱 Engineering Philosophy**:  
