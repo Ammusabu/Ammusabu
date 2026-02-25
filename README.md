@@ -5,11 +5,13 @@ Welcome to my page!
 
 *Architecting intelligent systems at the NLP-Computer Vision crossroads*
 
-**🧠 Focus Areas**:  
-▫️ Computer Vision (CNNs, Image Classification) 
-▫️ Applied Machine Learning 
-▫️ Data Analysis & Visualization 
-▫️ API-based AI Applications  
+## 🧠 Focus Areas
+
+* Computer Vision (CNNs, Image Classification)
+* Applied Machine Learning
+* Data Analysis & Visualization
+* API-based AI Applications
+
 
 ## 🛠 Tech Stack
 
