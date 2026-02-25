@@ -13,6 +13,7 @@ Welcome to my page!
 
 **🛠 Tech Stack**:  
 *Languages:*
+`Python • C++ • Java • SQL`
 **🌱 Engineering Philosophy**:  
 "Precision beats power • Context beats complexity •  
 Maintainability beats momentary accuracy"
