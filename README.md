@@ -12,8 +12,20 @@ Welcome to my page!
 ▫️ API-based AI Applications  
 
 **🛠 Tech Stack**:  
+
 *Languages:*
 `Python • C++ • Java • SQL`
+
+*Machine Learning & Deep Learning:*
+`TensorFlow • Keras • PyTorch • Scikit-learn`
+
+*Libraries:*
+`NumPy • Pandas • Matplotlib • OpenCV • NLTK`
+
+*Tools & Platforms:*
+`Git • GitHub • Linux • Jupyter Notebook • Google Colab • Kaggle • HuggingFace`
+
+
 **🌱 Engineering Philosophy**:  
 "Precision beats power • Context beats complexity •  
 Maintainability beats momentary accuracy"
