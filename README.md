@@ -15,10 +15,7 @@ Welcome to my page!
 
 **Languages**
 
-* Python
-* C++
-* Java
-* SQL
+`Python` `C++` `Java` `SQL`
 
 **Machine Learning & Deep Learning**
 
