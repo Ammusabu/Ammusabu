@@ -5,17 +5,14 @@ Welcome to my page!
 
 *Architecting intelligent systems at the NLP-Computer Vision crossroads*
 
-**🧠 Core Expertise**:  
-▫️ Multimodal AI Systems Design  
-▫️ Production-Grade ML Pipelines  
-▫️ Data Storytelling & Insight Orchestration  
-▫️ Python-Centric Solution Engineering  
+**🧠 Focus Areas**:  
+▫️ Computer Vision (CNNs, Image Classification) 
+▫️ Applied Machine Learning 
+▫️ Data Analysis & Visualization 
+▫️ API-based AI Applications  
 
-**🛠️ Technical Arsenal**:  
-`Python` `PyTorch` `TensorFlow` `OpenCV` `Transformers`  
-`Spark` `Docker` `Airflow` `SQL` `HuggingFace` `LangChain`  
-`GANs` `BERT` `YOLO` `FastAPI` `Tableau` `MLflow`  
-
+**🛠 Tech Stack**:  
+*Languages:*
 **🌱 Engineering Philosophy**:  
 "Precision beats power • Context beats complexity •  
 Maintainability beats momentary accuracy"
