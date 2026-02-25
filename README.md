@@ -11,19 +11,39 @@ Welcome to my page!
 ▫️ Data Analysis & Visualization 
 ▫️ API-based AI Applications  
 
-**🛠 Tech Stack**:  
+## 🛠 Tech Stack
 
-*Languages:*
-`Python • C++ • Java • SQL`
+**Languages**
 
-*Machine Learning & Deep Learning:*
-`TensorFlow • Keras • PyTorch • Scikit-learn`
+* Python
+* C++
+* Java
+* SQL
 
-*Libraries:*
-`NumPy • Pandas • Matplotlib • OpenCV • NLTK`
+**Machine Learning & Deep Learning**
 
-*Tools & Platforms:*
-`Git • GitHub • Linux • Jupyter Notebook • Google Colab • Kaggle • HuggingFace`
+* TensorFlow
+* Keras
+* PyTorch
+* Scikit-learn
+
+**Libraries**
+
+* NumPy
+* Pandas
+* Matplotlib
+* OpenCV
+* NLTK
+
+**Tools & Platforms**
+
+* Git
+* GitHub
+* Linux
+* Jupyter Notebook
+* Google Colab
+* Kaggle
+* HuggingFace
 
 
 **🌱 Engineering Philosophy**:  
