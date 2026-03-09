@@ -8,7 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ammu-sabu-37997b280/)
 [![Email](https://img.shields.io/badge/Email-ammuttya20%40gmail.com-%23EA4335?style=flat-square&logo=gmail)](mailto:ammuttya20@gmail.com)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-Profile-%23FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/)
 
 </div>
 
@@ -46,7 +45,7 @@ I'm a Computer Science undergraduate at **Lovely Professional University** passi
 
 ## 🚀 Featured Projects
 
-### 🩺 [Skin Condition Prediction & Progression Tracker](https://github.com/Ammusabu/skin-condition-prediction-tracker)
+### 🩺 [Skin Condition Prediction & Progression Tracker]([https://github.com/Ammusabu/skin-condition-prediction-tracker](https://github.com/Ammusabu/skin-condition-prediction-tracker))
 > CNN-based **MobileNetV2** multi-class skin condition classifier with severity scoring and progression tracking.
 
 - Built a deep learning model to classify skin conditions and estimate severity levels from images.  
