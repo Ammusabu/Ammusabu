@@ -53,13 +53,18 @@ I'm a Computer Science undergraduate at **Lovely Professional University** passi
 - `TensorFlow` `Keras` `MobileNetV2` `Image Preprocessing` `Google Colab` `HuggingFace`
 
 ### 🗺️ [Waste Collection Route Optimization System](https://github.com/Ammusabu/Waste-Collection-Route-Optimization-System)
-> Intelligent route planning using K-Means clustering + Travelling Salesman Problem (TSP)
-- Reduced route distance and operational inefficiency through clustering-based routing
-- Visualized on interactive **Folium** dashboards
-- `K-Means` `TSP` `Folium` `NetworkX` `Scikit-learn` `Pandas`
+> AI-powered route planning for efficient waste collection using clustering and graph optimization.
+
+- Optimized waste collection routes using **K-Means clustering** and **Travelling Salesman Problem (TSP)** algorithms to minimize travel distance and operational cost.  
+- Built interactive **Folium-based geospatial dashboards** to visualize routes, clusters, and optimized collection paths.  
+- Integrated **graph-based optimization with NetworkX** and data processing using **Pandas & Scikit-learn**.
+
+`K-Means` `TSP` `Folium` `NetworkX` `Scikit-learn` `Pandas`
 
 ### 🎓 [Advanced Student Management & Result Analyser](https://github.com/Ammusabu/Advanced-student-Management-System-Result-Analzser-)
-> Full-stack student data management system with academic result analytics
+>  Developed a web-based student management system to manage student records, sections, and academic results with real-time analytics.
+- Implemented DSA-based algorithms (arrays, sorting, searching, aggregation) to compute class averages, rankings, pass percentages, and subject-wise performance.
+- Built interactive data visualization dashboards using Chart.js to display grade distribution, section performance, and top performers with CSV import/export support.
 
 ### 🤖 [AI Interview Question Generator](https://github.com/Ammusabu/ai-interview-question-generator)
 > API-based assistant that generates interview questions, evaluates answers, and gives structured feedback
