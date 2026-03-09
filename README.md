@@ -47,34 +47,64 @@ I'm a Computer Science undergraduate at **Lovely Professional University** passi
 ## 🚀 Featured Projects
 
 ### 🩺 [Skin Condition Prediction & Progression Tracker](https://github.com/Ammusabu/skin-condition-prediction-tracker)
-> CNN-based (MobileNetV2) multi-class skin condition classifier with severity scoring and temporal tracking
-- Deployed interactive web interface via **Gradio + Plotly** for real-time visualization
-- Implements patient-level progression monitoring over time
-- `TensorFlow` `Keras` `MobileNetV2` `Image Preprocessing` `Google Colab` `HuggingFace`
+> CNN-based **MobileNetV2** multi-class skin condition classifier with severity scoring and progression tracking.
+
+- Built a deep learning model to classify skin conditions and estimate severity levels from images.  
+- Developed an **interactive Gradio interface** with **Plotly visualizations** for real-time predictions and patient monitoring.  
+- Implemented **temporal tracking** to analyze patient-level disease progression over time.
+
+`TensorFlow` `Keras` `MobileNetV2` `Image Processing` `Gradio` `Plotly`
+
+---
 
 ### 🗺️ [Waste Collection Route Optimization System](https://github.com/Ammusabu/Waste-Collection-Route-Optimization-System)
-> AI-powered route planning for efficient waste collection using clustering and graph optimization.
+> AI-powered route optimization for efficient waste collection using clustering and graph algorithms.
 
-- Optimized waste collection routes using **K-Means clustering** and **Travelling Salesman Problem (TSP)** algorithms to minimize travel distance and operational cost.  
-- Built interactive **Folium-based geospatial dashboards** to visualize routes, clusters, and optimized collection paths.  
-- Integrated **graph-based optimization with NetworkX** and data processing using **Pandas & Scikit-learn**.
+- Optimized waste collection routes using **K-Means clustering** and **Travelling Salesman Problem (TSP)** algorithms.  
+- Visualized optimized routes and clusters on **interactive Folium geospatial maps**.  
+- Implemented graph-based routing using **NetworkX** with data processing in **Pandas & Scikit-learn**.
 
 `K-Means` `TSP` `Folium` `NetworkX` `Scikit-learn` `Pandas`
 
-### 🎓 [Advanced Student Management & Result Analyser](https://github.com/Ammusabu/Advanced-student-Management-System-Result-Analzser-)
->  Developed a web-based student management system to manage student records, sections, and academic results with real-time analytics.
-- Implemented DSA-based algorithms (arrays, sorting, searching, aggregation) to compute class averages, rankings, pass percentages, and subject-wise performance.
-- Built interactive data visualization dashboards using Chart.js to display grade distribution, section performance, and top performers with CSV import/export support.
+---
+
+### 🎓 [Advanced Student Management & Result Analyzer](https://github.com/Ammusabu/Advanced-student-Management-System-Result-Analzser-)
+> Web-based system for managing students and analyzing academic performance.
+
+- Developed a **student management platform** to manage sections, student records, and academic results.  
+- Implemented **DSA-based algorithms** (arrays, sorting, searching, aggregation) for rankings, averages, and performance metrics.  
+- Built **interactive analytics dashboards** using **Chart.js** with CSV import/export support.
+
+`JavaScript` `Chart.js` `DSA` `Data Visualization` `CSV Processing`
+
+---
 
 ### 🤖 [AI Interview Question Generator](https://github.com/Ammusabu/ai-interview-question-generator)
-> API-based assistant that generates interview questions, evaluates answers, and gives structured feedback
-- `Python` `REST APIs` `LLMs` `Prompt Engineering`
+> AI-powered tool that generates interview questions and evaluates candidate responses.
+
+- Built an API-based system to **generate role-specific interview questions using LLMs**.  
+- Implemented **automated answer evaluation and structured feedback generation**.
+
+`Python` `REST API` `LLMs` `Prompt Engineering`
+
+---
 
 ### 🐾 [Pet Emergency Bot](https://github.com/Ammusabu/pet-emergency-bot)
-> Conversational AI bot for pet emergency triage and guidance
+> Conversational AI assistant designed to guide pet owners during emergency situations.
 
-### 🏥 [OCMS](https://github.com/Ammusabu/OCMS)
-> Online clinic/patient management system
+- Provides **instant emergency guidance and first-aid instructions for pets**.  
+- Built using conversational AI workflows for quick response and accessibility.
+
+`Python` `Chatbot` `AI Assistant`
+
+---
+
+### 🏥 [OCMS – Online Course Management System](https://github.com/Ammusabu/OCMS)
+> Web platform for managing online courses, instructors, and student enrollments.
+
+- Developed using **Django framework** with modular course and user management features.
+
+`Django` `Python` `Web Development`
 
 ---
 
