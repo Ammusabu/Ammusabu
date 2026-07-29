@@ -176,38 +176,35 @@ Runs adaptive mock interviews that generate follow-up questions based on prior a
 **Key Features** · Adaptive AI interviewer · Dynamic question generation · LLM-based answer evaluation · Redis caching · Async worker pipeline
 
 <p>
+<a href="https://ai-interview-agent-fg1m.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-8A7CFF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://github.com/Ammusabu/Ai-interview-agent"><img src="https://img.shields.io/badge/GitHub-151328?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 <br/>
 
 ## Other Engineering Projects
-
+ 
 <table>
 <tr>
 <td width="25%" valign="top">
-
 **[NeuralExam](https://github.com/Ammusabu/Neuralexam--Bias-Free-AI-MCQ-Generator)**
 AI MCQ generator — bias-free question generation from topic, text, or PDF input
-
+ 
 </td>
 <td width="25%" valign="top">
-
-**Eye Gaze Tracking(https://github.com/Ammusabu/Real-Time-Eye-Gaze-Tracking-Attention-Analysis)**
+**[Eye Gaze Tracking](https://github.com/Ammusabu/Real-Time-Eye-Gaze-Tracking-Attention-Analysis)**
 Python · MediaPipe · OpenCV — attention detection and heatmaps
-
+ 
 </td>
 <td width="25%" valign="top">
-
-**Skin Disease Prediction(https://github.com/Ammusabu/skin-condition-prediction-tracker)**
+**[Skin Disease Prediction](https://github.com/Ammusabu/skin-condition-prediction-tracker)**
 TensorFlow · MobileNetV2 — image classification and severity analysis
-
+ 
 </td>
 <td width="25%" valign="top">
-
-**Student Result Analyzer(https://github.com/Ammusabu/Advanced-student-Management-System-Result-Analzser-)**
+**[Student Result Analyzer](https://github.com/Ammusabu/Advanced-student-Management-System-Result-Analzser-)**
 JavaScript · Chart.js — analytics with CSV import/export
-
+ 
 </td>
 </tr>
 </table>
