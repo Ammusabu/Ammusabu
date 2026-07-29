@@ -1,4 +1,5 @@
-<h1 align="center">Ammu</h1>
+# *Ammu S*
+
 ### *Software Developer • AI/ML Engineer • Data Science Enthusiast*
 
 ---
