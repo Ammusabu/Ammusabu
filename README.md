@@ -1,131 +1,289 @@
 <div align="center">
 
-# Ammu S 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Ammu%20S&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%2FML%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
-**Machine Learning Engineer · AI Systems Builder · Backend Developer**
+<br/>
 
-*Building intelligent, scalable systems at the intersection of NLP, Computer Vision, and real-world impact.*
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=900&color=8A7CFF&center=true&vCenter=true&width=650&lines=I+build+production-grade+backend+%26+AI+systems;Not+tutorials.+Not+CRUD+demos.+Real+products.;API-first.+Cloud-ready.+Built+to+scale." alt="Typing SVG" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/ammu-sabu-37997b280/)
-[![Email](https://img.shields.io/badge/Email-Contact-%23EA4335?style=flat-square\&logo=gmail)](mailto:ammuttya20@gmail.com)
+<br/><br/>
+
+<a href="https://ammus.dev"><img src="https://img.shields.io/badge/Portfolio-8A7CFF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/ammus"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ammus@email.com"><img src="https://img.shields.io/badge/Email-24243E?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**🚀 6+**
+Production Projects
+
+</td>
+<td align="center" width="25%">
+
+**🤖 3**
+AI Applications Shipped
+
+</td>
+<td align="center" width="25%">
+
+**🌍 4+**
+Live Deployments
+
+</td>
+<td align="center" width="25%">
+
+**💻 300+**
+DSA Problems Solved
+
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<br/>
 
-## 🧠 About Me
+## About Me
 
-I’m a Computer Science undergraduate focused on designing **production-ready AI systems** that solve meaningful real-world problems.
+I design backend and AI systems the way I'd want to inherit them — clear boundaries, predictable failure modes, and no surprises six months later.
 
-* 🔬 Exploring **Efficient Transformers** & **Edge AI for Computer Vision**
-* 🧩 Strong in **DSA, backend systems, and ML pipelines**
-* 🏆 250+ DSA problems solved | 5⭐ Python & C++ (HackerRank)
-* 🎓 Certified in Deep Learning, ML, and Neural Networks
+Most of my work sits at the intersection of **software engineering and applied AI**: building the infrastructure that makes an LLM feature reliable in production, not just impressive in a demo. I care less about "does it work once" and more about "does it work at 2am when nobody's watching."
 
-💡 *I focus on building systems that are not just accurate, but scalable, interpretable, and deployable.*
+Currently focused on backend architecture, ML-powered products, and systems that are cloud-ready from day one — not retrofitted later.
 
----
+<br/>
 
-## 🚀 Flagship Project
+## How I Design Systems
 
-### 🩺 AI-Powered Skin Condition Analyzer
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> Deep learning system for **skin disease classification + progression tracking**
+**API-first thinking**
+Contracts before implementation. Every service is designed to be consumed before it's designed to be built.
 
-* Achieved **~91% accuracy** on multi-class skin condition dataset using MobileNetV2
-* Designed a **severity scoring algorithm** to track disease progression over time
-* Built a **real-time Gradio interface** for interactive predictions and monitoring
-* Integrated **visual analytics (Plotly)** for patient-level insights
+**Modular by default**
+Boundaries drawn around business capability, not file convenience. Swappable pieces, not spaghetti.
 
-**Tech Stack:** TensorFlow · Keras · OpenCV · Gradio · Plotly
+</td>
+<td width="50%" valign="top">
 
----
+**Scalable from the start**
+Stateless services, async workloads, caching layers — designed in, not bolted on after the first outage.
 
-## 🚀 Featured Projects
+**Cloud-ready, not cloud-hopeful**
+Containerized, environment-agnostic, and deployable without "it works on my machine."
 
-### 🤖 AI Interview Assistant
+</td>
+</tr>
+</table>
 
-> LLM-powered system for **interview question generation + answer evaluation**
+<br/>
 
-* Generates **role-specific interview questions** using LLM APIs
-* Evaluates answers with **structured scoring + feedback generation**
-* Built scalable backend APIs for real-time interaction
+## Featured Engineering Work
 
-**Tech:** Python · FastAPI · LLM APIs · Prompt Engineering
+<br/>
 
----
+### 01 · InsightForge AI
+**AI-powered Business Intelligence Platform**
 
-### 🗺️ Smart Waste Collection Optimizer
+<img src="https://via.placeholder.com/1200x600/151328/8A7CFF?text=InsightForge+AI+%E2%80%94+Dashboard+Preview" width="100%"/>
 
-> AI-based route optimization system for **efficient urban waste management**
+Turns raw business data into forecasts, narrative reports, and a conversational interface — so stakeholders query their data in plain English instead of waiting on a dashboard request.
 
-* Reduced route inefficiency using **K-Means clustering + TSP optimization**
-* Implemented graph-based routing using **NetworkX**
-* Visualized routes with **interactive geospatial maps (Folium)**
+**Architecture Highlights**
+- FastAPI backend serving async inference endpoints, containerized for horizontal scaling
+- Pandas/Scikit-learn pipeline decoupled from the API layer for independent retraining
+- Groq-backed LLM layer for natural-language dataset querying and auto-generated reports
 
-**Tech:** Scikit-learn · Pandas · NetworkX · Folium
+| Layer | Stack |
+|---|---|
+| Frontend | React, TypeScript |
+| Backend | FastAPI, Python |
+| ML/Data | Pandas, Scikit-learn |
+| AI | Groq |
+| Infra | Docker |
 
----
+**Key Features** · AI-generated reports · Forecasting engine · Natural-language dataset chat · Interactive dashboards · Containerized deployment
 
-### 🎓 Student Management & Result Analyzer
+<p>
+<a href="https://insightforge-ai.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-8A7CFF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/ammus/insightforge-ai"><img src="https://img.shields.io/badge/GitHub-151328?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
-> Web system for managing students and analyzing academic performance
-
-* Implemented **ranking, aggregation, and analytics using DSA concepts**
-* Built **interactive dashboards (Chart.js)** for performance visualization
-* Designed scalable system for student data handling
-
-**Tech:** JavaScript · Chart.js · Data Structures · CSV Processing
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-Python · C++ · Java · SQL
-
-**Machine Learning / AI**
-TensorFlow · PyTorch · Scikit-learn · OpenCV
-
-**Data & Visualization**
-NumPy · Pandas · Matplotlib · Plotly
-
-**Backend & Tools**
-FastAPI · Django · REST APIs · Git · Linux · HuggingFace
+<br/>
 
 ---
 
-## 📜 Certifications
+<br/>
 
-* Deep Learning Specialization — DeepLearning.AI
-* Neural Networks with Keras — IBM
-* Machine Learning — Kaggle
-* Prompt Engineering & LLMs — Infosys Springboard
+### 02 · ZenoLearn
+**Modern Learning Management System**
+
+<img src="https://via.placeholder.com/1200x600/151328/8A7CFF?text=ZenoLearn+%E2%80%94+Platform+Preview" width="100%"/>
+
+A full LMS built around three distinct user roles — students, instructors, and admins — each with a purpose-built interface instead of one dashboard trying to serve everyone.
+
+**Architecture Highlights**
+- Django REST Framework API with JWT-based auth and role-based access control
+- Normalized PostgreSQL schema supporting progress tracking and certificate issuance
+- Clean separation between student, instructor, and admin experiences on a shared React frontend
+
+| Layer | Stack |
+|---|---|
+| Frontend | React, Tailwind CSS |
+| Backend | Django, DRF |
+| Auth | JWT |
+| Database | PostgreSQL |
+
+**Key Features** · Student dashboard · Instructor portal · Admin panel · Progress tracking · Auto-generated certificates · Role-based authentication
+
+<p>
+<a href="https://zenolearn.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-8A7CFF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/ammus/zenolearn"><img src="https://img.shields.io/badge/GitHub-151328?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<br/>
 
 ---
 
-## 💼 Experience
+<br/>
 
-**AI & Machine Learning Intern**
-AICTE – EduNet Foundation (IBM SkillsBuild)
+### 03 · AI Interview Assistant
+**LLM-powered Technical Interview Simulator**
 
-* Built an **AI interview assistant system** with automated evaluation
-* Developed backend workflows integrating APIs for scoring and feedback
+<img src="https://via.placeholder.com/1200x600/151328/8A7CFF?text=AI+Interview+Assistant+%E2%80%94+Session+Preview" width="100%"/>
 
----
+Runs adaptive mock interviews that generate follow-up questions based on prior answers and score responses using an LLM evaluation layer — built to handle concurrent sessions without blocking.
 
-## 📈 What I’m Focused On
+**Architecture Highlights**
+- Celery + Redis for async question generation and evaluation, keeping the API responsive under load
+- Redis caching layer for session state, cutting redundant LLM calls
+- JWT-secured PostgreSQL-backed session and results storage
 
-* Building **deployable AI products (not just models)**
-* Scaling LLM-based applications
-* Combining **ML + Backend Engineering + Systems Design**
+| Layer | Stack |
+|---|---|
+| Backend | FastAPI |
+| Async | Celery, Redis |
+| AI | Groq |
+| Auth | JWT |
+| Database | PostgreSQL |
 
----
+**Key Features** · Adaptive AI interviewer · Dynamic question generation · LLM-based answer evaluation · Redis caching · Async worker pipeline
+
+<p>
+<a href="https://github.com/ammus/ai-interview-assistant"><img src="https://img.shields.io/badge/GitHub-151328?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<br/>
+
+## Other Engineering Projects
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+**[NeuralExam](https://github.com/ammus/neuralexam)**
+AI MCQ generator — bias-free question generation from topic, text, or PDF input
+
+</td>
+<td width="25%" valign="top">
+
+**Eye Gaze Tracking**
+Python · MediaPipe · OpenCV — attention detection and heatmaps
+
+</td>
+<td width="25%" valign="top">
+
+**Skin Disease Prediction**
+TensorFlow · MobileNetV2 — image classification and severity analysis
+
+</td>
+<td width="25%" valign="top">
+
+**Student Result Analyzer**
+JavaScript · Chart.js — analytics with CSV import/export
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Engineering Skills
+
+<table>
+<tr><td><b>Languages</b></td><td>Python · TypeScript · JavaScript · SQL</td></tr>
+<tr><td><b>Frontend</b></td><td>React · Tailwind CSS</td></tr>
+<tr><td><b>Backend</b></td><td>FastAPI · Django · Django REST Framework</td></tr>
+<tr><td><b>AI / ML</b></td><td>Scikit-learn · Pandas · Groq · LLM Integration</td></tr>
+<tr><td><b>Database</b></td><td>PostgreSQL · Redis</td></tr>
+<tr><td><b>Cloud</b></td><td>Docker</td></tr>
+<tr><td><b>DevOps / Tools</b></td><td>Celery · JWT · Git · CI/CD</td></tr>
+</table>
+
+<br/>
+
+## Architecture Interests
+
+Microservices · Distributed Systems · System Design · Event-Driven Architecture · Data Engineering · MLOps
+
+<br/>
+
+## Currently Learning
+
+Distributed systems patterns at scale · MLOps pipelines for model deployment and monitoring
+
+<br/>
+
+## Open Source Goals
+
+Contributing to backend and AI-tooling projects where I can improve reliability, documentation, or developer experience — looking to move from user to contributor in the tools I already rely on.
+
+<br/>
+
+## GitHub Analytics
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ammus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A7CFF&icon_color=8A7CFF" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A7CFF" width="34%"/>
+</div>
+
+<br/>
+
+## Coding Profiles
 
 <div align="center">
 
-**Open to internships, research collaborations, and impactful projects**
+<a href="https://leetcode.com/ammus"><img src="https://img.shields.io/badge/LeetCode-151328?style=for-the-badge&logo=leetcode&logoColor=8A7CFF"/></a>
+<a href="https://www.codechef.com/users/ammus"><img src="https://img.shields.io/badge/CodeChef-151328?style=for-the-badge&logo=codechef&logoColor=8A7CFF"/></a>
+<a href="https://www.hackerrank.com/ammus"><img src="https://img.shields.io/badge/HackerRank-151328?style=for-the-badge&logo=hackerrank&logoColor=8A7CFF"/></a>
 
-*while (!perfect) { iterate(); }*
+</div>
 
+<br/>
+
+## Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/ammus"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://ammus.dev"><img src="https://img.shields.io/badge/Portfolio-8A7CFF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:ammus@email.com"><img src="https://img.shields.io/badge/Email-24243E?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/ammus"><img src="https://img.shields.io/badge/GitHub-151328?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=100&section=footer" width="100%"/>
+
+<sub>Built with intent, not templates.</sub>
 </div>
