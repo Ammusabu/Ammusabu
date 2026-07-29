@@ -10,9 +10,8 @@
 
 <br/><br/>
 
-<a href="https://ammus.dev"><img src="https://img.shields.io/badge/Portfolio-8A7CFF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://linkedin.com/in/ammus"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:ammus@email.com"><img src="https://img.shields.io/badge/Email-24243E?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/ammusabu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ammuttya20@gmail.com"><img src="https://img.shields.io/badge/Email-24243E?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
@@ -32,7 +31,7 @@ AI Applications Shipped
 </td>
 <td align="center" width="25%">
 
-**🌍 4+**
+**🌍 5+**
 Live Deployments
 
 </td>
@@ -93,7 +92,7 @@ Containerized, environment-agnostic, and deployable without "it works on my mach
 ### 01 · InsightForge AI
 **AI-powered Business Intelligence Platform**
 
-<img src="https://via.placeholder.com/1200x600/151328/8A7CFF?text=InsightForge+AI+%E2%80%94+Dashboard+Preview" width="100%"/>
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/eb33d097-0a7f-4ce0-bf66-a26823e3cb02" />
 
 Turns raw business data into forecasts, narrative reports, and a conversational interface — so stakeholders query their data in plain English instead of waiting on a dashboard request.
 
@@ -113,8 +112,8 @@ Turns raw business data into forecasts, narrative reports, and a conversational 
 **Key Features** · AI-generated reports · Forecasting engine · Natural-language dataset chat · Interactive dashboards · Containerized deployment
 
 <p>
-<a href="https://insightforge-ai.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-8A7CFF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/ammus/insightforge-ai"><img src="https://img.shields.io/badge/GitHub-151328?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://nsight-forge-ai.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-8A7CFF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/Ammusabu/InsightForge-AI"><img src="https://img.shields.io/badge/GitHub-151328?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -126,7 +125,7 @@ Turns raw business data into forecasts, narrative reports, and a conversational 
 ### 02 · ZenoLearn
 **Modern Learning Management System**
 
-<img src="https://via.placeholder.com/1200x600/151328/8A7CFF?text=ZenoLearn+%E2%80%94+Platform+Preview" width="100%"/>
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/cbc1b1e5-88e8-476b-958d-7058e1e2f28f" />
 
 A full LMS built around three distinct user roles — students, instructors, and admins — each with a purpose-built interface instead of one dashboard trying to serve everyone.
 
@@ -145,8 +144,8 @@ A full LMS built around three distinct user roles — students, instructors, and
 **Key Features** · Student dashboard · Instructor portal · Admin panel · Progress tracking · Auto-generated certificates · Role-based authentication
 
 <p>
-<a href="https://zenolearn.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-8A7CFF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/ammus/zenolearn"><img src="https://img.shields.io/badge/GitHub-151328?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://zenolearn-two.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-8A7CFF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/Ammusabu/zenolearn"><img src="https://img.shields.io/badge/GitHub-151328?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -158,7 +157,7 @@ A full LMS built around three distinct user roles — students, instructors, and
 ### 03 · AI Interview Assistant
 **LLM-powered Technical Interview Simulator**
 
-<img src="https://via.placeholder.com/1200x600/151328/8A7CFF?text=AI+Interview+Assistant+%E2%80%94+Session+Preview" width="100%"/>
+<img width="1600" height="903" alt="image" src="https://github.com/user-attachments/assets/ca9774db-f431-4ceb-ac63-7816749f4f25" />
 
 Runs adaptive mock interviews that generate follow-up questions based on prior answers and score responses using an LLM evaluation layer — built to handle concurrent sessions without blocking.
 
@@ -178,7 +177,7 @@ Runs adaptive mock interviews that generate follow-up questions based on prior a
 **Key Features** · Adaptive AI interviewer · Dynamic question generation · LLM-based answer evaluation · Redis caching · Async worker pipeline
 
 <p>
-<a href="https://github.com/ammus/ai-interview-assistant"><img src="https://img.shields.io/badge/GitHub-151328?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Ammusabu/Ai-interview-agent"><img src="https://img.shields.io/badge/GitHub-151328?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -189,25 +188,25 @@ Runs adaptive mock interviews that generate follow-up questions based on prior a
 <tr>
 <td width="25%" valign="top">
 
-**[NeuralExam](https://github.com/ammus/neuralexam)**
+**[NeuralExam](https://github.com/Ammusabu/Neuralexam--Bias-Free-AI-MCQ-Generator)**
 AI MCQ generator — bias-free question generation from topic, text, or PDF input
 
 </td>
 <td width="25%" valign="top">
 
-**Eye Gaze Tracking**
+**Eye Gaze Tracking(https://github.com/Ammusabu/Real-Time-Eye-Gaze-Tracking-Attention-Analysis)**
 Python · MediaPipe · OpenCV — attention detection and heatmaps
 
 </td>
 <td width="25%" valign="top">
 
-**Skin Disease Prediction**
+**Skin Disease Prediction(https://github.com/Ammusabu/skin-condition-prediction-tracker)**
 TensorFlow · MobileNetV2 — image classification and severity analysis
 
 </td>
 <td width="25%" valign="top">
 
-**Student Result Analyzer**
+**Student Result Analyzer(https://github.com/Ammusabu/Advanced-student-Management-System-Result-Analzser-)**
 JavaScript · Chart.js — analytics with CSV import/export
 
 </td>
@@ -219,7 +218,7 @@ JavaScript · Chart.js — analytics with CSV import/export
 ## Engineering Skills
 
 <table>
-<tr><td><b>Languages</b></td><td>Python · TypeScript · JavaScript · SQL</td></tr>
+<tr><td><b>Languages</b></td><td>Python · TypeScript · JavaScript · SQL · C++ </td></tr>
 <tr><td><b>Frontend</b></td><td>React · Tailwind CSS</td></tr>
 <tr><td><b>Backend</b></td><td>FastAPI · Django · Django REST Framework</td></tr>
 <tr><td><b>AI / ML</b></td><td>Scikit-learn · Pandas · Groq · LLM Integration</td></tr>
@@ -248,22 +247,14 @@ Contributing to backend and AI-tooling projects where I can improve reliability,
 
 <br/>
 
-## GitHub Analytics
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ammus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A7CFF&icon_color=8A7CFF" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A7CFF" width="34%"/>
-</div>
-
-<br/>
 
 ## Coding Profiles
 
 <div align="center">
 
-<a href="https://leetcode.com/ammus"><img src="https://img.shields.io/badge/LeetCode-151328?style=for-the-badge&logo=leetcode&logoColor=8A7CFF"/></a>
-<a href="https://www.codechef.com/users/ammus"><img src="https://img.shields.io/badge/CodeChef-151328?style=for-the-badge&logo=codechef&logoColor=8A7CFF"/></a>
-<a href="https://www.hackerrank.com/ammus"><img src="https://img.shields.io/badge/HackerRank-151328?style=for-the-badge&logo=hackerrank&logoColor=8A7CFF"/></a>
+<a href="https://leetcode.com/u/Ammu0S/"><img src="https://img.shields.io/badge/LeetCode-151328?style=for-the-badge&logo=leetcode&logoColor=8A7CFF"/></a>
+<a href="https://www.codechef.com/users/ammusabu"><img src="https://img.shields.io/badge/CodeChef-151328?style=for-the-badge&logo=codechef&logoColor=8A7CFF"/></a>
+<a href="https://www.hackerrank.com/ammusabu"><img src="https://img.shields.io/badge/HackerRank-151328?style=for-the-badge&logo=hackerrank&logoColor=8A7CFF"/></a>
 
 </div>
 
@@ -273,10 +264,9 @@ Contributing to backend and AI-tooling projects where I can improve reliability,
 
 <div align="center">
 
-<a href="https://linkedin.com/in/ammus"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://ammus.dev"><img src="https://img.shields.io/badge/Portfolio-8A7CFF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="mailto:ammus@email.com"><img src="https://img.shields.io/badge/Email-24243E?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/ammus"><img src="https://img.shields.io/badge/GitHub-151328?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ammusabu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:ammuttya20@gmail.com"><img src="https://img.shields.io/badge/Email-24243E?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Ammusabu"><img src="https://img.shields.io/badge/GitHub-151328?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
