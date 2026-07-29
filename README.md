@@ -13,7 +13,6 @@
 <a href="https://linkedin.com/in/ammusabu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:ammuttya20@gmail.com"><img src="https://img.shields.io/badge/Email-24243E?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<br/><br/>
 
 <table>
 <tr>
