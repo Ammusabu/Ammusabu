@@ -49,11 +49,11 @@ DSA Problems Solved
 
 ## About Me
 
-I design backend and AI systems the way I'd want to inherit them — clear boundaries, predictable failure modes, and no surprises six months later.
+I build software with a long-term engineering mindset—prioritizing modular architecture, maintainability, and reliability from the start. I enjoy turning complex ideas into production-ready applications by combining backend engineering with applied AI.
 
-Most of my work sits at the intersection of **software engineering and applied AI**: building the infrastructure that makes an LLM feature reliable in production, not just impressive in a demo. I care less about "does it work once" and more about "does it work at 2am when nobody's watching."
+My interests lie in designing scalable APIs, integrating LLM-powered features, and building intelligent systems that remain clean, extensible, and easy to evolve. Rather than focusing only on model performance, I enjoy engineering the infrastructure that makes AI applications practical and dependable.
 
-Currently focused on backend architecture, ML-powered products, and systems that are cloud-ready from day one — not retrofitted later.
+Currently exploring backend architecture, distributed systems, MLOps, and cloud-native development while building full-stack AI products.
 
 <br/>
 
