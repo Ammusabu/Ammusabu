@@ -1,4 +1,4 @@
-# 💫 **Ammu S**  
+<h1 align="center">Ammu</h1>
 ### *Software Developer • AI/ML Engineer • Data Science Enthusiast*
 
 ---
