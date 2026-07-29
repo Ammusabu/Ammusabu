@@ -1,290 +1,235 @@
-# ✦ **Ammu S**  
-### *Software Developer • AI/ML Engineer • Data Science Enthusiast*
+# ✦ Ammu S
 
----
-
-<!-- PREMIUM HERO BANNER WITH ANIMATED GRADIENT -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24,30,36&height=250&section=header&text=Ammu%20S&fontSize=70&fontColor=fff&animation=fadeIn&desc=✦%20Architecting%20Intelligent%20Systems%20✦&descSize=22&descAlignY=65" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24,30,36&height=280&section=header&text=&fontSize=0&desc=Ammu%20S&descSize=56&descAlign=50&descAlignY=40&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=36&pause=800&color=6C63FF&center=true&vCenter=true&width=800&height=80&lines=✦+System+Architect+✦;✦+AI+Engineer+✦;✦+Full-Stack+Developer+✦;✦+Open+Source+Advocate+✦;✦+Problem+Solver+✦;✦+Innovation+Driver+✦" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=500&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&height=60&lines=Software+Engineer;AI%2FML+Engineer;System+Architect" alt="Typing Animation" />
+</p>
+
+<p align="center" style="font-size: 20px; color: #8892b0; letter-spacing: 0.5px; max-width: 600px; line-height: 1.8;">
+  Building production-grade AI systems and scalable software architectures.
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/✦_8%2B_Production_Projects-18181B?style=for-the-badge&labelColor=18181B&color=6C63FF"/>
+  <img src="https://img.shields.io/badge/✦_6_AI_Applications-18181B?style=for-the-badge&labelColor=18181B&color=6C63FF"/>
+  <img src="https://img.shields.io/badge/✦_Live_Deployments-18181B?style=for-the-badge&labelColor=18181B&color=6C63FF"/>
+  <img src="https://img.shields.io/badge/✦_B.Tech_CSE_(AI%2FML)-18181B?style=for-the-badge&labelColor=18181B&color=6C63FF"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/✦_PROFILE_VIEWS-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=ammus&label=&color=6C63FF&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/✦_OPEN_TO_WORK-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <img src="https://img.shields.io/badge/✦_PORTFOLIO-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/✦_RESUME-6C63FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
 </p>
 
 ---
 
-<!-- PREMIUM ABOUT SECTION WITH GLASSMORPHISM -->
+<br/>
+
+## ✦ Engineering Focus
+
 <p align="center">
-  <table style="background: linear-gradient(135deg, rgba(108,99,255,0.08), rgba(255,255,255,0.02)); backdrop-filter: blur(20px); border-radius: 30px; border: 1px solid rgba(108,99,255,0.15); padding: 30px; width: 90%; max-width: 1100px;">
+  <table>
     <tr>
-      <td width="65%" style="padding: 20px;">
-        <h2 style="color: #6C63FF; font-size: 28px; letter-spacing: 2px;">✦ About Me</h2>
-        <p style="font-size: 18px; line-height: 2; color: #e0e0e0;">
-          I architect <strong style="color: #6C63FF;">production-grade AI systems</strong> and 
-          <strong style="color: #6C63FF;">scalable full-stack applications</strong> that bridge the gap 
-          between cutting-edge research and real-world impact.
-        </p>
-        <br/>
-        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
-          <div><strong style="color: #6C63FF;">🎯 Current Focus:</strong><br/>Distributed Systems • MLOps</div>
-          <div><strong style="color: #6C63FF;">🚀 Building:</strong><br/><a href="#" style="color: #6C63FF; text-decoration: none;">InsightForge AI</a></div>
-          <div><strong style="color: #6C63FF;">📚 Learning:</strong><br/>Kubernetes • Apache Kafka</div>
-          <div><strong style="color: #6C63FF;">💡 Philosophy:</strong><br/>Clean Code • Scalable Architecture</div>
-        </div>
+      <td width="33%" align="center" style="padding: 20px; background: rgba(108,99,255,0.03); border-radius: 12px;">
+        <div style="font-size: 32px; margin-bottom: 8px;">🏗️</div>
+        <div style="font-weight: 600; color: #e6e6e6;">System Architecture</div>
+        <div style="font-size: 14px; color: #8892b0; margin-top: 6px;">Scalable • Distributed • Production-ready</div>
       </td>
-      <td width="35%" align="center" style="padding: 20px;">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" style="border-radius: 20px; box-shadow: 0 10px 40px rgba(108,99,255,0.3);"/>
+      <td width="33%" align="center" style="padding: 20px; background: rgba(108,99,255,0.03); border-radius: 12px;">
+        <div style="font-size: 32px; margin-bottom: 8px;">🤖</div>
+        <div style="font-weight: 600; color: #e6e6e6;">AI Engineering</div>
+        <div style="font-size: 14px; color: #8892b0; margin-top: 6px;">LLMs • ML Pipelines • Inference</div>
+      </td>
+      <td width="33%" align="center" style="padding: 20px; background: rgba(108,99,255,0.03); border-radius: 12px;">
+        <div style="font-size: 32px; margin-bottom: 8px;">⚡</div>
+        <div style="font-weight: 600; color: #e6e6e6;">Full Stack</div>
+        <div style="font-size: 14px; color: #8892b0; margin-top: 6px;">React • FastAPI • Django • Cloud</div>
       </td>
     </tr>
   </table>
 </p>
+
+<br/>
 
 ---
 
-<!-- DEVELOPMENT PHILOSOPHY WITH PROGRESS BARS -->
-<p align="center">
-  <h2 align="center" style="color: #6C63FF; font-size: 28px; letter-spacing: 2px;">✦ Developer Philosophy</h2>
-</p>
+<br/>
 
-<p align="center">
-  <table style="width: 90%; max-width: 1100px;">
-    <tr>
-      <td width="20%" align="center" style="padding: 15px; background: rgba(108,99,255,0.05); border-radius: 15px; margin: 5px;">
-        <div style="font-size: 40px;">🧹</div>
-        <div style="font-weight: bold; color: #6C63FF;">Clean Code</div>
-        <div style="background: #1a1a2e; height: 4px; width: 100%; border-radius: 2px; margin-top: 8px;">
-          <div style="background: #6C63FF; height: 4px; width: 95%; border-radius: 2px;"></div>
-        </div>
-      </td>
-      <td width="20%" align="center" style="padding: 15px; background: rgba(108,99,255,0.05); border-radius: 15px; margin: 5px;">
-        <div style="font-size: 40px;">🏗️</div>
-        <div style="font-weight: bold; color: #6C63FF;">Scalable Architecture</div>
-        <div style="background: #1a1a2e; height: 4px; width: 100%; border-radius: 2px; margin-top: 8px;">
-          <div style="background: #6C63FF; height: 4px; width: 90%; border-radius: 2px;"></div>
-        </div>
-      </td>
-      <td width="20%" align="center" style="padding: 15px; background: rgba(108,99,255,0.05); border-radius: 15px; margin: 5px;">
-        <div style="font-size: 40px;">⚡</div>
-        <div style="font-weight: bold; color: #6C63FF;">Performance First</div>
-        <div style="background: #1a1a2e; height: 4px; width: 100%; border-radius: 2px; margin-top: 8px;">
-          <div style="background: #6C63FF; height: 4px; width: 85%; border-radius: 2px;"></div>
-        </div>
-      </td>
-      <td width="20%" align="center" style="padding: 15px; background: rgba(108,99,255,0.05); border-radius: 15px; margin: 5px;">
-        <div style="font-size: 40px;">🔒</div>
-        <div style="font-weight: bold; color: #6C63FF;">Security Matters</div>
-        <div style="background: #1a1a2e; height: 4px; width: 100%; border-radius: 2px; margin-top: 8px;">
-          <div style="background: #6C63FF; height: 4px; width: 80%; border-radius: 2px;"></div>
-        </div>
-      </td>
-      <td width="20%" align="center" style="padding: 15px; background: rgba(108,99,255,0.05); border-radius: 15px; margin: 5px;">
-        <div style="font-size: 40px;">📈</div>
-        <div style="font-weight: bold; color: #6C63FF;">Continuous Learning</div>
-        <div style="background: #1a1a2e; height: 4px; width: 100%; border-radius: 2px; margin-top: 8px;">
-          <div style="background: #6C63FF; height: 4px; width: 98%; border-radius: 2px;"></div>
-        </div>
-      </td>
-    </tr>
-  </table>
-</p>
-
----
-
-<!-- FEATURED ENGINEERING WORK WITH PREMIUM CARDS -->
-<p align="center">
-  <h2 align="center" style="color: #6C63FF; font-size: 28px; letter-spacing: 2px;">✦ Featured Engineering Work</h2>
-</p>
-
-<!-- PROJECT 1: INSIGHTFORGE AI -->
-<details open>
-  <summary style="font-size: 22px; font-weight: bold; color: #6C63FF; cursor: pointer; padding: 10px 20px; background: rgba(108,99,255,0.08); border-radius: 15px; border-left: 4px solid #6C63FF;">
-    🧠 InsightForge AI — Enterprise Business Intelligence
-  </summary>
-  <br/>
-  
-  <p align="center">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=groq&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  </p>
-  
-  <table align="center" style="width: 95%; border-collapse: separate; border-spacing: 0 10px;">
-    <tr>
-      <td style="background: rgba(108,99,255,0.05); border-radius: 10px; padding: 12px;">✅ AI Analytics</td>
-      <td style="background: rgba(108,99,255,0.05); border-radius: 10px; padding: 12px;">✅ Business Reports</td>
-      <td style="background: rgba(108,99,255,0.05); border-radius: 10px; padding: 12px;">✅ Forecasting</td>
-    </tr>
-    <tr>
-      <td style="background: rgba(108,99,255,0.05); border-radius: 10px; padding: 12px;">✅ Interactive Dashboard</td>
-      <td style="background: rgba(108,99,255,0.05); border-radius: 10px; padding: 12px;">✅ Dataset Chat</td>
-      <td style="background: rgba(108,99,255,0.05); border-radius: 10px; padding: 12px;">✅ PDF Reports</td>
-    </tr>
-  </table>
-  
-  <p align="center" style="margin-top: 15px;">
-    <img src="https://img.shields.io/badge/⭐_Stars-127-6C63FF?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/🍴_Forks-34-6C63FF?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/🐛_Issues-2-6C63FF?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/🚀_Deployed-Yes-6C63FF?style=for-the-badge"/>
-  </p>
-  
-  <p align="center">
-    <a href="#"><img src="https://img.shields.io/badge/🌐_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/📊_Architecture-6C63FF?style=for-the-badge&logo=diagrams.net&logoColor=white"/></a>
-  </p>
-</details>
+## ✦ Featured Work
 
 <br/>
 
-<!-- PROJECT 2: ZENOLEARN -->
-<details>
-  <summary style="font-size: 22px; font-weight: bold; color: #6C63FF; cursor: pointer; padding: 10px 20px; background: rgba(108,99,255,0.08); border-radius: 15px; border-left: 4px solid #6C63FF;">
-    📚 ZenoLearn — Modern Learning Management System
-  </summary>
-  <br/>
-  
-  <p align="center">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-    <img src="https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-  </p>
-  
-  <table align="center" style="width: 95%; border-collapse: separate; border-spacing: 0 10px;">
+### 01. InsightForge AI
+
+<p align="center">
+  <table style="width: 90%; max-width: 1000px; background: rgba(108,99,255,0.03); border-radius: 20px; border: 1px solid rgba(108,99,255,0.08); padding: 30px;">
     <tr>
-      <td style="background: rgba(108,99,255,0.05); border-radius: 10px; padding: 12px;">✅ Student Dashboard</td>
-      <td style="background: rgba(108,99,255,0.05); border-radius: 10px; padding: 12px;">✅ Instructor Portal</td>
-      <td style="background: rgba(108,99,255,0.05); border-radius: 10px; padding: 12px;">✅ Admin Panel</td>
-    </tr>
-    <tr>
-      <td style="background: rgba(108,99,255,0.05); border-radius: 10px; padding: 12px;">✅ Certificate Generation</td>
-      <td style="background: rgba(108,99,255,0.05); border-radius: 10px; padding: 12px;">✅ Progress Tracking</td>
-      <td style="background: rgba(108,99,255,0.05); border-radius: 10px; padding: 12px;">✅ JWT Authentication</td>
+      <td width="60%" style="padding: 20px;">
+        <div style="font-size: 24px; font-weight: 600; color: #e6e6e6; margin-bottom: 8px;">Enterprise Business Intelligence</div>
+        <div style="color: #8892b0; line-height: 1.6; margin-bottom: 16px;">
+          AI-powered platform delivering real-time analytics, automated reporting, and predictive insights for enterprise decision-making.
+        </div>
+        <div style="margin-bottom: 12px;">
+          <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Groq-000000?style=flat&logo=groq&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+        </div>
+        <div style="display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 16px;">
+          <span style="background: rgba(108,99,255,0.1); padding: 4px 12px; border-radius: 20px; font-size: 13px; color: #c9d1d9;">AI Analytics</span>
+          <span style="background: rgba(108,99,255,0.1); padding: 4px 12px; border-radius: 20px; font-size: 13px; color: #c9d1d9;">Forecasting</span>
+          <span style="background: rgba(108,99,255,0.1); padding: 4px 12px; border-radius: 20px; font-size: 13px; color: #c9d1d9;">Interactive Dashboards</span>
+          <span style="background: rgba(108,99,255,0.1); padding: 4px 12px; border-radius: 20px; font-size: 13px; color: #c9d1d9;">Dataset Chat</span>
+          <span style="background: rgba(108,99,255,0.1); padding: 4px 12px; border-radius: 20px; font-size: 13px; color: #c9d1d9;">PDF Reports</span>
+        </div>
+        <div style="display: flex; gap: 8px;">
+          <a href="#"><img src="https://img.shields.io/badge/View_Live-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+          <a href="#"><img src="https://img.shields.io/badge/Repository-18171A?style=for-the-badge&logo=github&logoColor=white"/></a>
+          <a href="#"><img src="https://img.shields.io/badge/Architecture-6C63FF?style=for-the-badge&logo=diagrams.net&logoColor=white"/></a>
+        </div>
+      </td>
+      <td width="40%" align="center" style="padding: 20px;">
+        <div style="background: linear-gradient(135deg, #6C63FF20, #6C63FF05); border-radius: 16px; padding: 30px; border: 1px solid rgba(108,99,255,0.1);">
+          <div style="font-size: 48px; margin-bottom: 12px;">📊</div>
+          <div style="font-size: 14px; color: #8892b0;">AI-Powered BI Platform</div>
+          <div style="display: flex; justify-content: center; gap: 20px; margin-top: 16px;">
+            <div><div style="font-weight: 600; color: #e6e6e6;">127</div><div style="font-size: 12px; color: #8892b0;">⭐ Stars</div></div>
+            <div><div style="font-weight: 600; color: #e6e6e6;">34</div><div style="font-size: 12px; color: #8892b0;">🍴 Forks</div></div>
+            <div><div style="font-weight: 600; color: #6C63FF;">Live</div><div style="font-size: 12px; color: #8892b0;">Deployed</div></div>
+          </div>
+        </div>
+      </td>
     </tr>
   </table>
-  
-  <p align="center" style="margin-top: 15px;">
-    <img src="https://img.shields.io/badge/⭐_Stars-89-6C63FF?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/🍴_Forks-21-6C63FF?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/🚀_Deployed-Yes-6C63FF?style=for-the-badge"/>
-  </p>
-  
-  <p align="center">
-    <a href="#"><img src="https://img.shields.io/badge/🌐_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  </p>
-</details>
+</p>
 
 <br/>
 
-<!-- PROJECT 3: AI INTERVIEW ASSISTANT -->
-<details>
-  <summary style="font-size: 22px; font-weight: bold; color: #6C63FF; cursor: pointer; padding: 10px 20px; background: rgba(108,99,255,0.08); border-radius: 15px; border-left: 4px solid #6C63FF;">
-    🎯 AI Interview Assistant — Intelligent Interview Platform
-  </summary>
-  <br/>
-  
-  <p align="center">
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=groq&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  </p>
-  
-  <table align="center" style="width: 95%; border-collapse: separate; border-spacing: 0 10px;">
+### 02. ZenoLearn
+
+<p align="center">
+  <table style="width: 90%; max-width: 1000px; background: rgba(108,99,255,0.03); border-radius: 20px; border: 1px solid rgba(108,99,255,0.08); padding: 30px;">
     <tr>
-      <td style="background: rgba(108,99,255,0.05); border-radius: 10px; padding: 12px;">✅ AI Interviewer</td>
-      <td style="background: rgba(108,99,255,0.05); border-radius: 10px; padding: 12px;">✅ Dynamic Questions</td>
-      <td style="background: rgba(108,99,255,0.05); border-radius: 10px; padding: 12px;">✅ LLM Evaluation</td>
-    </tr>
-    <tr>
-      <td style="background: rgba(108,99,255,0.05); border-radius: 10px; padding: 12px;">✅ Redis Cache</td>
-      <td style="background: rgba(108,99,255,0.05); border-radius: 10px; padding: 12px;">✅ Async Workers</td>
-      <td style="background: rgba(108,99,255,0.05); border-radius: 10px; padding: 12px;">✅ JWT Authentication</td>
+      <td width="60%" style="padding: 20px;">
+        <div style="font-size: 24px; font-weight: 600; color: #e6e6e6; margin-bottom: 8px;">Modern Learning Management</div>
+        <div style="color: #8892b0; line-height: 1.6; margin-bottom: 16px;">
+          Comprehensive LMS with role-based portals, certificate generation, and real-time progress tracking for educational institutions.
+        </div>
+        <div style="margin-bottom: 12px;">
+          <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+          <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+          <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white"/>
+        </div>
+        <div style="display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 16px;">
+          <span style="background: rgba(108,99,255,0.1); padding: 4px 12px; border-radius: 20px; font-size: 13px; color: #c9d1d9;">Student Dashboard</span>
+          <span style="background: rgba(108,99,255,0.1); padding: 4px 12px; border-radius: 20px; font-size: 13px; color: #c9d1d9;">Instructor Portal</span>
+          <span style="background: rgba(108,99,255,0.1); padding: 4px 12px; border-radius: 20px; font-size: 13px; color: #c9d1d9;">Certificate Generation</span>
+          <span style="background: rgba(108,99,255,0.1); padding: 4px 12px; border-radius: 20px; font-size: 13px; color: #c9d1d9;">Progress Tracking</span>
+        </div>
+        <div style="display: flex; gap: 8px;">
+          <a href="#"><img src="https://img.shields.io/badge/View_Live-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+          <a href="#"><img src="https://img.shields.io/badge/Repository-18171A?style=for-the-badge&logo=github&logoColor=white"/></a>
+        </div>
+      </td>
+      <td width="40%" align="center" style="padding: 20px;">
+        <div style="background: linear-gradient(135deg, #6C63FF20, #6C63FF05); border-radius: 16px; padding: 30px; border: 1px solid rgba(108,99,255,0.1);">
+          <div style="font-size: 48px; margin-bottom: 12px;">📚</div>
+          <div style="font-size: 14px; color: #8892b0;">Learning Management System</div>
+          <div style="display: flex; justify-content: center; gap: 20px; margin-top: 16px;">
+            <div><div style="font-weight: 600; color: #e6e6e6;">89</div><div style="font-size: 12px; color: #8892b0;">⭐ Stars</div></div>
+            <div><div style="font-weight: 600; color: #e6e6e6;">21</div><div style="font-size: 12px; color: #8892b0;">🍴 Forks</div></div>
+            <div><div style="font-weight: 600; color: #6C63FF;">Live</div><div style="font-size: 12px; color: #8892b0;">Deployed</div></div>
+          </div>
+        </div>
+      </td>
     </tr>
   </table>
-  
-  <p align="center" style="margin-top: 15px;">
-    <img src="https://img.shields.io/badge/⭐_Stars-56-6C63FF?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/🍴_Forks-14-6C63FF?style=for-the-badge"/>
-  </p>
-  
-  <p align="center">
-    <a href="#"><img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  </p>
-</details>
+</p>
 
 <br/>
 
-<!-- PROJECT 4-7: GRID SHOWCASE -->
+### 03. AI Interview Assistant
+
+<p align="center">
+  <table style="width: 90%; max-width: 1000px; background: rgba(108,99,255,0.03); border-radius: 20px; border: 1px solid rgba(108,99,255,0.08); padding: 30px;">
+    <tr>
+      <td width="60%" style="padding: 20px;">
+        <div style="font-size: 24px; font-weight: 600; color: #e6e6e6; margin-bottom: 8px;">Intelligent Interview Platform</div>
+        <div style="color: #8892b0; line-height: 1.6; margin-bottom: 16px;">
+          AI-driven interview system with dynamic question generation, LLM evaluation, and asynchronous job processing at scale.
+        </div>
+        <div style="margin-bottom: 12px;">
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Groq-000000?style=flat&logo=groq&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white"/>
+          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+        </div>
+        <div style="display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 16px;">
+          <span style="background: rgba(108,99,255,0.1); padding: 4px 12px; border-radius: 20px; font-size: 13px; color: #c9d1d9;">AI Interviewer</span>
+          <span style="background: rgba(108,99,255,0.1); padding: 4px 12px; border-radius: 20px; font-size: 13px; color: #c9d1d9;">Dynamic Questions</span>
+          <span style="background: rgba(108,99,255,0.1); padding: 4px 12px; border-radius: 20px; font-size: 13px; color: #c9d1d9;">LLM Evaluation</span>
+          <span style="background: rgba(108,99,255,0.1); padding: 4px 12px; border-radius: 20px; font-size: 13px; color: #c9d1d9;">Async Workers</span>
+          <span style="background: rgba(108,99,255,0.1); padding: 4px 12px; border-radius: 20px; font-size: 13px; color: #c9d1d9;">Redis Cache</span>
+        </div>
+        <div style="display: flex; gap: 8px;">
+          <a href="#"><img src="https://img.shields.io/badge/Repository-18171A?style=for-the-badge&logo=github&logoColor=white"/></a>
+        </div>
+      </td>
+      <td width="40%" align="center" style="padding: 20px;">
+        <div style="background: linear-gradient(135deg, #6C63FF20, #6C63FF05); border-radius: 16px; padding: 30px; border: 1px solid rgba(108,99,255,0.1);">
+          <div style="font-size: 48px; margin-bottom: 12px;">🎯</div>
+          <div style="font-size: 14px; color: #8892b0;">AI Interview System</div>
+          <div style="display: flex; justify-content: center; gap: 20px; margin-top: 16px;">
+            <div><div style="font-weight: 600; color: #e6e6e6;">56</div><div style="font-size: 12px; color: #8892b0;">⭐ Stars</div></div>
+            <div><div style="font-weight: 600; color: #e6e6e6;">14</div><div style="font-size: 12px; color: #8892b0;">🍴 Forks</div></div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </table>
+</p>
+
+<br/>
+
 <details>
-  <summary style="font-size: 22px; font-weight: bold; color: #6C63FF; cursor: pointer; padding: 10px 20px; background: rgba(108,99,255,0.08); border-radius: 15px; border-left: 4px solid #6C63FF;">
-    🔬 Additional Engineering Work
-  </summary>
+  <summary style="font-size: 16px; font-weight: 500; color: #8892b0; cursor: pointer; padding: 8px 0;">✦ Additional Projects</summary>
   <br/>
   
   <p align="center">
-    <table style="width: 95%; border-collapse: separate; border-spacing: 15px;">
+    <table style="width: 90%; max-width: 1000px;">
       <tr>
-        <td style="background: rgba(108,99,255,0.05); border-radius: 15px; padding: 20px; border: 1px solid rgba(108,99,255,0.1);">
-          <div style="font-size: 32px;">📝</div>
-          <div style="font-weight: bold; color: #6C63FF;">NeuralExam</div>
-          <div style="font-size: 13px; color: #888;">AI MCQ Generator</div>
-          <div style="margin-top: 10px;">
-            <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Groq-000000?style=flat-square&logo=groq&logoColor=white"/>
-          </div>
-          <div style="margin-top: 8px; font-size: 13px;">Bias-free generation • Balanced distribution</div>
+        <td width="25%" align="center" style="padding: 20px; background: rgba(108,99,255,0.02); border-radius: 12px;">
+          <div style="font-size: 28px;">📝</div>
+          <div style="font-weight: 500; margin: 8px 0; color: #e6e6e6;">NeuralExam</div>
+          <div style="font-size: 13px; color: #8892b0;">AI MCQ Generator</div>
+          <div style="font-size: 12px; margin-top: 6px; color: #8892b0;">FastAPI • Groq • Llama 3.1</div>
         </td>
-        <td style="background: rgba(108,99,255,0.05); border-radius: 15px; padding: 20px; border: 1px solid rgba(108,99,255,0.1);">
-          <div style="font-size: 32px;">👁️</div>
-          <div style="font-weight: bold; color: #6C63FF;">Eye Gaze Tracking</div>
-          <div style="font-size: 13px; color: #888;">Attention Detection System</div>
-          <div style="margin-top: 10px;">
-            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-            <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-          </div>
-          <div style="margin-top: 8px; font-size: 13px;">Heatmaps • Analytics dashboard</div>
+        <td width="25%" align="center" style="padding: 20px; background: rgba(108,99,255,0.02); border-radius: 12px;">
+          <div style="font-size: 28px;">👁️</div>
+          <div style="font-weight: 500; margin: 8px 0; color: #e6e6e6;">Eye Gaze Tracking</div>
+          <div style="font-size: 13px; color: #8892b0;">Attention Detection</div>
+          <div style="font-size: 12px; margin-top: 6px; color: #8892b0;">Python • MediaPipe • OpenCV</div>
         </td>
-      </tr>
-      <tr>
-        <td style="background: rgba(108,99,255,0.05); border-radius: 15px; padding: 20px; border: 1px solid rgba(108,99,255,0.1);">
-          <div style="font-size: 32px;">🏥</div>
-          <div style="font-weight: bold; color: #6C63FF;">Skin Disease Predictor</div>
-          <div style="font-size: 13px; color: #888;">Medical Image Classification</div>
-          <div style="margin-top: 10px;">
-            <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Gradio-FF6F00?style=flat-square&logo=gradio&logoColor=white"/>
-          </div>
-          <div style="margin-top: 8px; font-size: 13px;">Severity analysis • Progress tracking</div>
+        <td width="25%" align="center" style="padding: 20px; background: rgba(108,99,255,0.02); border-radius: 12px;">
+          <div style="font-size: 28px;">🏥</div>
+          <div style="font-weight: 500; margin: 8px 0; color: #e6e6e6;">Skin Disease Predictor</div>
+          <div style="font-size: 13px; color: #8892b0;">Medical Image Classification</div>
+          <div style="font-size: 12px; margin-top: 6px; color: #8892b0;">TensorFlow • MobileNetV2</div>
         </td>
-        <td style="background: rgba(108,99,255,0.05); border-radius: 15px; padding: 20px; border: 1px solid rgba(108,99,255,0.1);">
-          <div style="font-size: 32px;">📊</div>
-          <div style="font-weight: bold; color: #6C63FF;">Student Result Analyzer</div>
-          <div style="font-size: 13px; color: #888;">Educational Analytics Tool</div>
-          <div style="margin-top: 10px;">
-            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-            <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"/>
-          </div>
-          <div style="margin-top: 8px; font-size: 13px;">CSV import/export • Analytics</div>
+        <td width="25%" align="center" style="padding: 20px; background: rgba(108,99,255,0.02); border-radius: 12px;">
+          <div style="font-size: 28px;">📊</div>
+          <div style="font-weight: 500; margin: 8px 0; color: #e6e6e6;">Result Analyzer</div>
+          <div style="font-size: 13px; color: #8892b0;">Educational Analytics</div>
+          <div style="font-size: 12px; margin-top: 6px; color: #8892b0;">JavaScript • Chart.js</div>
         </td>
       </tr>
     </table>
@@ -293,202 +238,162 @@
 
 <br/>
 
-<!-- TECH STACK WITH ICONS -->
-<p align="center">
-  <h2 align="center" style="color: #6C63FF; font-size: 28px; letter-spacing: 2px;">✦ Tech Stack</h2>
-</p>
+---
+
+<br/>
+
+## ✦ Engineering Stack
 
 <p align="center">
-  <table style="width: 90%; max-width: 1100px; border-collapse: separate; border-spacing: 8px;">
+  <table style="width: 85%; max-width: 900px;">
     <tr>
-      <td style="background: rgba(108,99,255,0.05); border-radius: 12px; padding: 15px; width: 16%;"><strong style="color: #6C63FF;">Languages</strong></td>
-      <td style="background: rgba(108,99,255,0.05); border-radius: 12px; padding: 15px; width: 84%;">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+      <td width="20%" style="padding: 12px 0; color: #6C63FF; font-weight: 500;">Languages</td>
+      <td width="80%" style="padding: 12px 0;">
+        <span style="color: #e6e6e6;">Python</span> •
+        <span style="color: #e6e6e6;">TypeScript</span> •
+        <span style="color: #e6e6e6;">JavaScript</span> •
+        <span style="color: #e6e6e6;">Java</span> •
+        <span style="color: #e6e6e6;">C++</span>
       </td>
     </tr>
     <tr>
-      <td style="background: rgba(108,99,255,0.05); border-radius: 12px; padding: 15px;"><strong style="color: #6C63FF;">Frontend</strong></td>
-      <td style="background: rgba(108,99,255,0.05); border-radius: 12px; padding: 15px;">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
+      <td style="padding: 12px 0; color: #6C63FF; font-weight: 500;">Frontend</td>
+      <td style="padding: 12px 0;">
+        <span style="color: #e6e6e6;">React</span> •
+        <span style="color: #e6e6e6;">Next.js</span> •
+        <span style="color: #e6e6e6;">Tailwind</span> •
+        <span style="color: #e6e6e6;">Bootstrap</span>
       </td>
     </tr>
     <tr>
-      <td style="background: rgba(108,99,255,0.05); border-radius: 12px; padding: 15px;"><strong style="color: #6C63FF;">Backend</strong></td>
-      <td style="background: rgba(108,99,255,0.05); border-radius: 12px; padding: 15px;">
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+      <td style="padding: 12px 0; color: #6C63FF; font-weight: 500;">Backend</td>
+      <td style="padding: 12px 0;">
+        <span style="color: #e6e6e6;">FastAPI</span> •
+        <span style="color: #e6e6e6;">Django</span> •
+        <span style="color: #e6e6e6;">Flask</span> •
+        <span style="color: #e6e6e6;">Node.js</span> •
+        <span style="color: #e6e6e6;">Spring Boot</span>
       </td>
     </tr>
     <tr>
-      <td style="background: rgba(108,99,255,0.05); border-radius: 12px; padding: 15px;"><strong style="color: #6C63FF;">Databases</strong></td>
-      <td style="background: rgba(108,99,255,0.05); border-radius: 12px; padding: 15px;">
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+      <td style="padding: 12px 0; color: #6C63FF; font-weight: 500;">AI / ML</td>
+      <td style="padding: 12px 0;">
+        <span style="color: #e6e6e6;">TensorFlow</span> •
+        <span style="color: #e6e6e6;">PyTorch</span> •
+        <span style="color: #e6e6e6;">scikit-learn</span> •
+        <span style="color: #e6e6e6;">Pandas</span> •
+        <span style="color: #e6e6e6;">Groq</span>
       </td>
     </tr>
     <tr>
-      <td style="background: rgba(108,99,255,0.05); border-radius: 12px; padding: 15px;"><strong style="color: #6C63FF;">AI & ML</strong></td>
-      <td style="background: rgba(108,99,255,0.05); border-radius: 12px; padding: 15px;">
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Groq-000000?style=flat-square&logo=groq&logoColor=white"/>
+      <td style="padding: 12px 0; color: #6C63FF; font-weight: 500;">Databases</td>
+      <td style="padding: 12px 0;">
+        <span style="color: #e6e6e6;">PostgreSQL</span> •
+        <span style="color: #e6e6e6;">MySQL</span> •
+        <span style="color: #e6e6e6;">MongoDB</span> •
+        <span style="color: #e6e6e6;">Redis</span>
       </td>
     </tr>
     <tr>
-      <td style="background: rgba(108,99,255,0.05); border-radius: 12px; padding: 15px;"><strong style="color: #6C63FF;">DevOps</strong></td>
-      <td style="background: rgba(108,99,255,0.05); border-radius: 12px; padding: 15px;">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-      </td>
-    </tr>
-    <tr>
-      <td style="background: rgba(108,99,255,0.05); border-radius: 12px; padding: 15px;"><strong style="color: #6C63FF;">Cloud</strong></td>
-      <td style="background: rgba(108,99,255,0.05); border-radius: 12px; padding: 15px;">
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
-        <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
+      <td style="padding: 12px 0; color: #6C63FF; font-weight: 500;">Cloud & DevOps</td>
+      <td style="padding: 12px 0;">
+        <span style="color: #e6e6e6;">AWS</span> •
+        <span style="color: #e6e6e6;">GCP</span> •
+        <span style="color: #e6e6e6;">Docker</span> •
+        <span style="color: #e6e6e6;">Kubernetes</span> •
+        <span style="color: #e6e6e6;">Celery</span> •
+        <span style="color: #e6e6e6;">Vercel</span>
       </td>
     </tr>
   </table>
 </p>
 
----
-
-<!-- GITHUB STATISTICS WITH PREMIUM CARDS -->
-<p align="center">
-  <h2 align="center" style="color: #6C63FF; font-size: 28px; letter-spacing: 2px;">✦ GitHub Analytics</h2>
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ammus&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&ring_color=6C63FF&custom_title=✦%20Contribution%20Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ammus&hide_border=true&background=0d1117&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=6C63FF" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammus&layout=compact&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&langs_count=8" />
-  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=ammus&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&title_color=6C63FF&text_color=c9d1d9&no-frame=true" />
-</p>
-
-<!-- CONTRIBUTION GRAPH -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ammus&bg_color=0d1117&color=6C63FF&line=6C63FF&point=c9d1d9&hide_border=true&custom_title=✦%20Contribution%20Activity" width="98%"/>
-</p>
+<br/>
 
 ---
 
-<!-- CODING PROFILES & ACHIEVEMENTS -->
-<p align="center">
-  <h2 align="center" style="color: #6C63FF; font-size: 28px; letter-spacing: 2px;">✦ Coding Profiles</h2>
-</p>
+<br/>
+
+## ✦ Learning Roadmap
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🏆_Solved-450+-6C63FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/⭐_Rating-1850-6C63FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/📈_Ranking-Top_5%-6C63FF?style=for-the-badge"/>
-</p>
-
----
-
-<!-- TECH RADAR -->
-<p align="center">
-  <h2 align="center" style="color: #6C63FF; font-size: 28px; letter-spacing: 2px;">✦ Tech Radar</h2>
-</p>
-
-<p align="center">
-  <table style="width: 90%; max-width: 1100px;">
+  <table style="width: 85%; max-width: 900px;">
     <tr>
-      <td style="background: rgba(108,99,255,0.05); border-radius: 12px; padding: 15px; border-left: 4px solid #00FF00;">
-        <strong style="color: #00FF00;">🚀 Adopt</strong>
-        <div style="margin-top: 5px; font-size: 14px;">FastAPI • React • TypeScript • Docker • PostgreSQL</div>
+      <td width="33%" align="center" style="padding: 16px; background: rgba(108,99,255,0.03); border-radius: 12px; border-left: 3px solid #6C63FF;">
+        <div style="font-weight: 500; color: #e6e6e6;">Distributed Systems</div>
+        <div style="font-size: 13px; color: #8892b0; margin-top: 4px;">Kafka • Microservices • Consensus</div>
       </td>
-    </tr>
-    <tr>
-      <td style="background: rgba(108,99,255,0.05); border-radius: 12px; padding: 15px; border-left: 4px solid #FFA500;">
-        <strong style="color: #FFA500;">🔬 Trial</strong>
-        <div style="margin-top: 5px; font-size: 14px;">Kubernetes • Apache Kafka • Ray • LangChain</div>
+      <td width="33%" align="center" style="padding: 16px; background: rgba(108,99,255,0.03); border-radius: 12px; border-left: 3px solid #6C63FF;">
+        <div style="font-weight: 500; color: #e6e6e6;">MLOps</div>
+        <div style="font-size: 13px; color: #8892b0; margin-top: 4px;">MLflow • Kubeflow • CI/CD for ML</div>
       </td>
-    </tr>
-    <tr>
-      <td style="background: rgba(108,99,255,0.05); border-radius: 12px; padding: 15px; border-left: 4px solid #4169E1;">
-        <strong style="color: #4169E1;">📚 Assess</strong>
-        <div style="margin-top: 5px; font-size: 14px;">Rust • Zig • WebAssembly • CUDA • GraphQL</div>
-      </td>
-    </tr>
-    <tr>
-      <td style="background: rgba(108,99,255,0.05); border-radius: 12px; padding: 15px; border-left: 4px solid #FF6B6B;">
-        <strong style="color: #FF6B6B;">📦 Hold</strong>
-        <div style="margin-top: 5px; font-size: 14px;">PHP • jQuery • Angular • MySQL (legacy)</div>
+      <td width="33%" align="center" style="padding: 16px; background: rgba(108,99,255,0.03); border-radius: 12px; border-left: 3px solid #6C63FF;">
+        <div style="font-weight: 500; color: #e6e6e6;">Cloud Native</div>
+        <div style="font-size: 13px; color: #8892b0; margin-top: 4px;">Kubernetes • Service Mesh • Observability</div>
       </td>
     </tr>
   </table>
 </p>
 
+<br/>
+
 ---
 
-<!-- CONNECT & COMMUNITY -->
+<br/>
+
+## ✦ GitHub Activity
+
 <p align="center">
-  <h2 align="center" style="color: #6C63FF; font-size: 28px; letter-spacing: 2px;">✦ Connect With Me</h2>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ammus&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ammus&hide_border=true&background=0d1117&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
 </p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammus&layout=compact&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ammus&bg_color=0d1117&color=6C63FF&line=6C63FF&point=c9d1d9&hide_border=true" width="98%"/>
+</p>
+
+<br/>
+
+---
+
+<br/>
+
+## ✦ Philosophy
+
+<p align="center" style="max-width: 700px; margin: 0 auto; line-height: 2; color: #8892b0; font-size: 16px;">
+  "Clean code, scalable architecture, and real-world impact. I build systems that solve problems—not just write code that works."
+</p>
+
+<br/>
+
+---
+
+<br/>
+
+## ✦ Connect
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-18171A?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
+<br/>
 
 ---
 
-<!-- RANDOM DEV QUOTE -->
+<br/>
+
+<p align="center" style="font-size: 14px; color: #8892b0; letter-spacing: 2px;">
+  ✦ 2024 Ammu S — Building the future, one commit at a time ✦
+</p>
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20implement%20it.%20%F0%9F%92%BB&author=David%20Heinemeier%20Hansson" />
-</p>
-
----
-
-<!-- SNAKE ANIMATION -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ammus/ammus/output/snake.svg" alt="Snake animation" />
-</p>
-
----
-
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24,30,36&height=120&section=footer" width="100%"/>
-</p>
-
-<p align="center" style="font-size: 18px; letter-spacing: 4px; color: #6C63FF;">
-  ✦ Building the future, one commit at a time ✦
-</p>
-
-<p align="center" style="font-size: 14px; color: #555;">
-  © 2024 Ammu S • Open Source Advocate • AI/ML Engineer
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24,30,36&height=80&section=footer" width="100%"/>
 </p>
