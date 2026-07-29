@@ -182,30 +182,55 @@ Runs adaptive mock interviews that generate follow-up questions based on prior a
 
 <br/>
 
-## Other Engineering Projects
- 
+<h2>🚀 Other Engineering Projects</h2>
+
 <table>
 <tr>
-<td width="25%" valign="top">
-**[NeuralExam](https://github.com/Ammusabu/Neuralexam--Bias-Free-AI-MCQ-Generator)**
-AI MCQ generator — bias-free question generation from topic, text, or PDF input
- 
+
+<td width="50%" valign="top">
+
+### 📝 <a href="https://github.com/Ammusabu/Neuralexam--Bias-Free-AI-MCQ-Generator">NeuralExam</a>
+
+AI-powered MCQ generator with balanced answer distribution.
+
+**Stack:** FastAPI • Groq • Llama 3.1
+
 </td>
-<td width="25%" valign="top">
-**[Eye Gaze Tracking](https://github.com/Ammusabu/Real-Time-Eye-Gaze-Tracking-Attention-Analysis)**
-Python · MediaPipe · OpenCV — attention detection and heatmaps
- 
+
+<td width="50%" valign="top">
+
+### 👁️ <a href="https://github.com/Ammusabu/Real-Time-Eye-Gaze-Tracking-Attention-Analysis">Eye Gaze Tracking</a>
+
+Real-time attention monitoring using MediaPipe and OpenCV.
+
+**Stack:** Python • OpenCV • Streamlit
+
 </td>
-<td width="25%" valign="top">
-**[Skin Disease Prediction](https://github.com/Ammusabu/skin-condition-prediction-tracker)**
-TensorFlow · MobileNetV2 — image classification and severity analysis
- 
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🏥 <a href="https://github.com/Ammusabu/skin-condition-prediction-tracker">Skin Disease Prediction</a>
+
+AI-based skin condition classification with severity analysis.
+
+**Stack:** TensorFlow • MobileNetV2 • Plotly
+
 </td>
-<td width="25%" valign="top">
-**[Student Result Analyzer](https://github.com/Ammusabu/Advanced-student-Management-System-Result-Analzser-)**
-JavaScript · Chart.js — analytics with CSV import/export
- 
+
+<td width="50%" valign="top">
+
+### 📊 <a href="https://github.com/Ammusabu/Advanced-student-Management-System-Result-Analzser-">Student Result Analyzer</a>
+
+Analytics dashboard with CSV import/export and performance insights.
+
+**Stack:** JavaScript • Chart.js
+
 </td>
+
 </tr>
 </table>
 
